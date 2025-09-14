@@ -1,0 +1,15 @@
+{
+  "name": "babylon_introduction",
+  "version": "1.0.0",
+  "description": "A minimal Babylon.js TypeScript starter",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "npm run build"
+  },
+  "devDependencies": {
+    "@babylonjs/core": "^8.27.0",
+    "@babylonjs/loaders": "^8.27.0",
+    "typescript": "^5.9.2"
+  }
+}
