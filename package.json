@@ -8,8 +8,8 @@
     "start": "npm run build"
   },
   "devDependencies": {
-    "@babylonjs/core": "^8.27.0",
-    "@babylonjs/loaders": "^8.27.0",
+    "@types/babylonjs": "^2.4.5",
+    "babylonjs": "^8.27.0",
     "typescript": "^5.9.2"
   }
 }
